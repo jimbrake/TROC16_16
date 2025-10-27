@@ -1,4 +1,4 @@
-# TROC16_423  
+# TROC16_42  
 Tagged Register Oriented Computer   
   16-bit instructions, 16 bit adddresses and data   
 Full featured version will use 24 or 32 bit addresses and data   
